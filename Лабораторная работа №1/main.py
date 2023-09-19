@@ -1,4 +1,3 @@
-print('51 простое число')
 def t1():
     def is_prime(n):
         if n <= 1:
